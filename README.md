@@ -10,4 +10,6 @@ The website visualizes the data in table format using javascript and bootstrap.
 ![](images/top.png)
 ![](images/table.png)  
 
-The data table can also be updated to match user input for selected date/time. 
+The data table can also be updated to match user input for selected date/time.  
+
+![](images/filtered_table.png) 
